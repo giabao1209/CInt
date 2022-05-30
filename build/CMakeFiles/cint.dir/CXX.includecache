@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/CInt.h
+lib.h
+../include/lib.h
+Parser.h
+../include/Parser.h
+
+../include/Calculator.h
+lib.h
+../include/lib.h
+
+../include/Parser.h
+lib.h
+../include/lib.h
+Util.h
+../include/Util.h
+
+../include/Util.h
+lib.h
+../include/lib.h
+
+../include/lib.h
+iostream
+-
+string
+-
+vector
+-
+
+/home/nguyen/Projects/CInt/src/main.cpp
+CInt.h
+/home/nguyen/Projects/CInt/src/CInt.h
+Calculator.h
+/home/nguyen/Projects/CInt/src/Calculator.h
+

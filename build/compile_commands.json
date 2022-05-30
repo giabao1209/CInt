@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/nguyen/Projects/CInt/build",
+  "command": "/usr/bin/c++   -I/home/nguyen/Projects/CInt/include    -o CMakeFiles/cint.dir/src/CInt.cpp.o -c /home/nguyen/Projects/CInt/src/CInt.cpp",
+  "file": "/home/nguyen/Projects/CInt/src/CInt.cpp"
+},
+{
+  "directory": "/home/nguyen/Projects/CInt/build",
+  "command": "/usr/bin/c++   -I/home/nguyen/Projects/CInt/include    -o CMakeFiles/cint.dir/src/Calculator.cpp.o -c /home/nguyen/Projects/CInt/src/Calculator.cpp",
+  "file": "/home/nguyen/Projects/CInt/src/Calculator.cpp"
+},
+{
+  "directory": "/home/nguyen/Projects/CInt/build",
+  "command": "/usr/bin/c++   -I/home/nguyen/Projects/CInt/include    -o CMakeFiles/cint.dir/src/Parser.cpp.o -c /home/nguyen/Projects/CInt/src/Parser.cpp",
+  "file": "/home/nguyen/Projects/CInt/src/Parser.cpp"
+},
+{
+  "directory": "/home/nguyen/Projects/CInt/build",
+  "command": "/usr/bin/c++   -I/home/nguyen/Projects/CInt/include    -o CMakeFiles/cint.dir/src/Util.cpp.o -c /home/nguyen/Projects/CInt/src/Util.cpp",
+  "file": "/home/nguyen/Projects/CInt/src/Util.cpp"
+},
+{
+  "directory": "/home/nguyen/Projects/CInt/build",
+  "command": "/usr/bin/c++   -I/home/nguyen/Projects/CInt/include    -o CMakeFiles/cint.dir/src/main.cpp.o -c /home/nguyen/Projects/CInt/src/main.cpp",
+  "file": "/home/nguyen/Projects/CInt/src/main.cpp"
+}
+]
